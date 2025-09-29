@@ -1,0 +1,14 @@
+{
+  "name": "backend-course-2025-3",
+  "version": "1.0.0",
+  "description": "Laboratory work 3 - JavaScript programming with Node.js modules",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "commander": "^11.0.0"
+  },
+  "author": "Dmutro145",
+  "license": "MIT"
+}

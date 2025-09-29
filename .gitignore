@@ -1,0 +1,6 @@
+node_modules/
+*.log
+flights-1m.json
+big_result.txt
+result.txt
+-la
