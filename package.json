@@ -1,14 +1,15 @@
 {
   "name": "backend-course-2025-3",
   "version": "1.0.0",
-  "description": "Laboratory work 3 - JavaScript programming with Node.js modules",
+  "description": "Лабораторна робота №3 - Обробка даних про авіарейси",
   "main": "main.js",
+  "type": "module",
   "scripts": {
     "start": "node main.js"
   },
   "dependencies": {
-    "commander": "^11.0.0"
+    "commander": "^11.1.0"
   },
-  "author": "Dmutro145",
-  "license": "MIT"
+  "author": "Dmytro bc2025-3",
+  "license": "ISC"
 }
